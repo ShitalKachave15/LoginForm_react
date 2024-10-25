@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "phone": "6849290109",
+      "country": "UK",
+      "address": "thane"
+    },
+    {
+      "id": "user1",
+      "name": "user1",
+      "email": "user@gmail.com",
+      "password": "user1",
+      "phone": "32139",
+      "country": "USA",
+      "address": "kalyan"
+    },
+    {
+      "id": "new",
+      "name": "new",
+      "email": "new@gmail.com",
+      "password": "new",
+      "phone": "435466",
+      "country": "",
+      "address": "tregfd"
+    },
+    {
+      "id": "dev",
+      "name": "developer",
+      "email": "dev@gmail.com",
+      "password": "dev",
+      "phone": "132543",
+      "country": "",
+      "address": "mumbai"
+    }
+  ]
+}

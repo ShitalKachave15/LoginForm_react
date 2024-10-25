@@ -23,11 +23,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.header{
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+}
+.header a{
+  text-decoration: none;
+  color: white;
+  padding: 2px;
+}
 .App-link {
   color: #61dafb;
 }
-
+.errmsg{
+  color: red;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
